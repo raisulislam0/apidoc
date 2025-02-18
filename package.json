@@ -4,7 +4,7 @@
   "description": "Generates OpenAPI documentation from code comments. @endpoint tags are used to define endpoints. @request tags are used to define request parameters. @response tags are used to define response parameters.",
   "version": "0.0.1",
   "engines": {
-    "vscode": "1.97.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Other"
@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@types/node": "^22.13.4",
-    "@types/vscode": "1.97.0",
+    "@types/vscode": "^1.80.0",
     "@typescript-eslint/eslint-plugin": "8.24.1",
     "@typescript-eslint/parser": "^8.24.1",
     "eslint": "^9.20.1",
